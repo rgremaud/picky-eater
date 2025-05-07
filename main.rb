@@ -6,3 +6,4 @@ dinner_party = Dinner_party.new(10)
 p dinner_party
 
 dinner_party.guest_create
+dinner_party.chef_create
